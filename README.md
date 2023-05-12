@@ -9,5 +9,6 @@ Instructions :
 1. Download and extract the folder
 2. Choose the computer's operating system
 3. Click on the nw file
+
 <img src="https://raw.githubusercontent.com/Rosiee7/Southpark-Jumper-Game/main/Home.jpg"/>
 <img src="https://raw.githubusercontent.com/Rosiee7/Southpark-Jumper-Game/main/Game.png"/>
