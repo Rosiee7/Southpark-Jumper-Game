@@ -6,7 +6,7 @@ your mission is to get Satan heart that will lead you to all stones.</br>
 [Link To the Game](https://drive.google.com/drive/folders/1GY-S7UMJjWrtSYsyK1yFSpJWGsvI7ag4?usp=sharing)
 
 Instructions :
-1. Download and extract the firmware
+1. Download and extract the folder
 2. Choose the computer's operating system
 3. Click on the nw file
 <img src="https://raw.githubusercontent.com/Rosiee7/Southpark-Jumper-Game/main/Home.jpg"/>
